@@ -17,6 +17,8 @@ This repo is for all the bangon users. This extension let's you automate the ted
  
 # Issues and Bug reports are invited and appreciated.
 
+# Tips: -
+
 Loading a extension to your brower is a very easy process but is browser specific.
 Google "How to test unpacked extension's in your browser(specific)".
 Enjoy the services.
