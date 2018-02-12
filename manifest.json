@@ -3,6 +3,7 @@
     "manifest_version": 2,
     "name": "Bangon Login",
     "version": "1.0",
+    "author" : "Vipul Bhardwaj",
   
     "description": "Extension to log into bangon",
 

@@ -8,7 +8,7 @@ html , body {
 }
 
 body {
-    background-color: steelblue;
+    background-color: black;
     text-align: center;
 }
 
@@ -17,7 +17,7 @@ body {
     font-size: 32px;
     font-family: monospace;
     font-weight: bold;
-    color: coral;
+    color: whitesmoke;
     
 }
 
@@ -33,8 +33,8 @@ body {
     width : 250px;
     height: 150px;
     overflow: hidden;
-    color: tomato;
-    background-color: rgba(0, 0, 0, 0.5);
-    border: .01px solid bisque;
-    border-radius: 2%; 
+    color: white;
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 5%; 
 }
