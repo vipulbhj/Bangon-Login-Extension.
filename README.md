@@ -5,7 +5,7 @@ All the browsers have there own directory and modified accordingly.
 # Usage: - 
   1=> Clone the repo.  
   2=> open the repo directory.  
-  3=> Go to your specified browser diretiry and then to popup directory.  
+  3=> Go to your specified browser directory and then to popup directory.  
   4=> Open up the popup.js file.  
   5=> change the username and password field.  
   6=> Save the document.  
