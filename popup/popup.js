@@ -3,8 +3,8 @@ $(document).ready(function() {
         $.post("http://203.122.12.242:2002/userportal/newlogin.do",
             {
                 type : "2",    
-                username: "7015212468",
-                password: "vipul012",
+                username: "Bangon Username",
+                password: "Bangon Password",
                 phone : "0",
                 jsonresponse : true
             },
