@@ -16,8 +16,8 @@ $(document).ready(function() {
                     $("#button").hide();
                     $(".data").text("Logged in successfully.");
                 } else if(data.errorKey === "redirect_to_nas") {
-                	chrome.tabs.create({url : 'http://1.254.254.254'});
-				} else if(data.errorMessage === "Incorrect internet service Username/password."){
+                	browser.tabs.create({url : 'http://1.254.254.254'});
+		} else if(data.errorMessage === "Incorrect internet service Username/password."){
                     // Wrong username or password.
                     $(".data").text("Wrong username/pass.");
                 } else {
