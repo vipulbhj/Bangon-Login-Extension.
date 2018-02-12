@@ -1,0 +1,19 @@
+{
+
+    "manifest_version": 2,
+    "name": "Bangon Login",
+    "version": "1.0",
+    "author" : "Vipul Bhardwaj",
+  
+    "description": "Extension to log into bangon",
+
+    "permissions" : [
+        "http://203.122.12.242:2002/userportal/newlogin.do"
+    ],
+  
+    "browser_action": {
+      "default_title": "Bangon login",
+      "default_popup": "popup/login.html"
+    }
+  
+}
