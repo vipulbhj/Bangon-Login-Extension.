@@ -3,12 +3,12 @@ This repo is for all the bangon users. This extension let's you automate the ted
 All the browsers have there own directory and modified accordingly. 
 ##########################################################################################
 # Usage: - 
-  1=> Clone the repo.\n
-  2=> open the repo directory.\n
-  3=> Go to your specified browser diretiry and then to popup directory.\n
-  4=> Open up the popup.js file.\n
-  5=> change the username and password field.\n
-  6=> Save the document.\n
+  1=> Clone the repo.
+  2=> open the repo directory.
+  3=> Go to your specified browser diretiry and then to popup directory.
+  4=> Open up the popup.js file.
+  5=> change the username and password field.
+  6=> Save the document.
   7=> Load the extension in your browser from the specific folder.
   
 # Browser's Supported and Tested: -
