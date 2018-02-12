@@ -14,3 +14,9 @@ This repo is for all the bangon users. This extension let's you automate the ted
 # Browser's Supported and Tested: -
    1=> Chrome.
    2=> Microsoft Edge.
+ 
+# Issues and Bug reports are invited and appreciated.
+
+Loading a extension to your brower is a very easy process but is browser specific.
+Google "How to test unpacked extension's in your browser(specific)".
+Enjoy the services.
