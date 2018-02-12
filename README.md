@@ -1,15 +1,15 @@
 # Bangon-Login-Extension.
 This repo is for all the bangon users. This extension let's you automate the tedious process of logining in to your account.
-
-##################################################################################################################
+All the browsers have there own directory and modified accordingly. 
+##########################################################################################
 # Usage: - 
   1=> Clone the repo.
-  2=> open the repo director.
-  3=> Go to the popup folder.
+  2=> open the repo directory.
+  3=> Go to your specified browser diretiry and then to popup directory.
   4=> Open up the popup.js file.
   5=> change the username and password field.
   6=> Save the document.
-  7=> Load the extension in your brower.
+  7=> Load the extension in your browser from the specific folder0.
   
 # Browser's Supported and Tested: -
    1=> Chrome.
